@@ -1,241 +1,586 @@
 image_id,questions,answers
-image1174,Where is the patterned pillow located?,The patterned pillow is located on the bed.
-image1174,How many pictures are on the wall?,There are two pictures on the wall.
-image1174,Is there a nightstand next to the bed?,"Yes, there is a nightstand next to the bed."
-image1174,What is the position of the purple pillow relative to the patterned pillow?,The purple pillow is behind the patterned pillow.
-image1174,Are there more than one pillow on the bed?,"Yes, there are more than one pillow on the bed."
-image541,Where is the trash can?,The trash can is next to the nightstand.
-image541,How many pillows are on the bed?,There is one pillow on the bed.
-image541,Is there a lamp on the floor?,"Yes, there is a lamp on the floor."
-image541,What is the position of the nightstand relative to the bed?,The nightstand is next to the head of the bed.
-image541,Are there more than one object on the nightstand?,"Yes, there are more than one object on the nightstand."
-image576,Where is the dish rack located?,"The dish rack is on the countertop, next to the sink."
-image576,How many cabinets are visible beneath the countertop?,There are two sets of cabinets beneath the countertop.
-image576,Is there a microwave on the countertop?,"Yes, there is a white microwave on the countertop."
-image576,What is the position of the stove relative to the countertop?,The stove is next to and slightly lower than the countertop.
-image576,Are there more than two bottles on the window sill?,"Yes, there are more than two bottles on the window sill."
-image110,Where is the blue recycling bin?,The blue recycling bin is next to the large white column.
-image110,How many bookshelves are visible?,I can see at least 7 bookshelves that are fully or partially visible.
-image110,Is there a stack of books on the floor near the white column?,"Yes, there is a stack of books on the floor near the white column."
-image110,What is the position of the shopping cart relative to the stacks of books on the counter?,The shopping cart is to the right of the stacks of books on the counter.
-image110,Are there more than 3 brown boxes in the image?,"Yes, there are more than 3 brown boxes in the image. I can see at least 4, possibly more partially hidden."
-image612,Where is the monitor?,"The monitor is on the desk, on the left side of the image."
-image612,How many cabinets are there?,There are at least 5 cabinets in the image.
-image612,Is there a trash can in the image?,"Yes, there is a trash can under the desk on the bottom left."
-image612,What is the position of the printer relative to the cabinets?,The printer is to the left of the cabinets.
-image612,Are there more than 2 frames on the wall?,"Yes, there are more than 2 frames on the wall."
-image488,Where is the lamp located?,The lamp is located on a wooden table to the left of the couch.
-image488,How many pillows are on the couch?,There is one pillow on the couch.
-image488,Is there artwork on the wall?,"Yes, there is artwork on the wall above the couch."
-image488,What is the position of the table relative to the couch?,The table is to the left of the couch.
-image488,Are there more than one flower pots in the image?,"No, there is only one flower pot in the image."
-image79,Where is the lamp?,The lamp is on the nightstand to the left of the bed.
-image79,How many drawers does the nightstand on the right side of the bed have?,The nightstand on the right side of the bed has two drawers.
-image79,Is there a laptop on the nightstand to the right side of the bed?,"Yes, there is a laptop on the nightstand to the right side of the bed."
-image79,What is the position of the bed relative to the headboard?,The bed is positioned against the headboard.
-image79,Are there more than 1 pillows on the bed?,"Yes, there are more than 1 pillows on the bed."
-image144,Where is the microwave?,The microwave is above the stove.
-image144,How many plates are on the shelf by the window?,"There is at least one plate visible on the shelf by the window, possibly a stack."
-image144,Is there a sink on the countertop?,"Yes, there is a sink on the countertop."
-image144,What is the position of the bag relative to the deep fryer?,The bag is to the left of the deep fryer.
-image144,Are there more than two cabinet doors in the image?,"Yes, there are more than two cabinet doors in the image."
-image506,Where are the magazines located?,The magazines are located on top of a shelf next to the toilet.
-image506,How many magazines are visible?,At least three magazines are visible.
-image506,Is there a basket in the image?,"Yes, there is a basket to the right of the toilet."
-image506,What is the position of the toilet relative to the door?,The toilet is to the right of the door.
-image506,Are there more than one tissue box in the image?,It looks like there is only one tissue box in the image.
-image1311,Where is the remote?,The remote is on the couch.
-image1311,How many chairs are visible in the image?,There are at least two chairs visible in the background.
-image1311,Is there a trash can near the window?,"Yes, there is a trash can near the window."
-image1311,What is the position of the couch relative to the wall?,The couch is in front of the wall.
-image1311,Are there more than two cushions on the couch?,"Yes, there are more than two cushions on the couch."
-image379,Where is the ottoman?,"The ottoman is in the center of the room, in front of the chair."
-image379,How many chairs are visible?,There are 2 chairs visible in the image.
+image7,Where are the cameras located?,The cameras are located mounted to the ceiling along the wall.
+image7,How many chairs with desks are there?,There are 7 chairs visible with desks attached.
+image7,Is there a ladder in the image?,"Yes, there is a red ladder located to the left of the computer monitor."
+image703,How many rolls of toilet paper are visible on the wall?,There are 3 rolls of toilet paper visible on the wall.
+image703,Where is the waste bin located?,"The waste bin is located on the floor, next to the wall and to the left of the toilet."
+image703,Is there a towel rack on the wall?,"Yes, there is a towel rack on the wall above the toilet paper dispenser."
+image232,Where is the mirror?,The mirror is on top of a shelving unit to the left of a man wearing a black shirt.
+image232,How many stools are stacked on top of the shelving unit?,There are two stools stacked on top of the shelving unit.
+image232,Is there a white shelving unit in the background?,"Yes, there is a white shelving unit located in the background, to the right of the man in the black shirt."
+image1221,Where is the black box?,"The black box is on the floor, next to the windows."
+image1221,How many windows are there?,There are two windows.
+image1221,Is there a book on the shelf?,"Yes, there are books on the shelf."
+image1425,Where is the sewing machine?,The sewing machine is on a table to the right side of the image.
+image1425,How many chairs are visible?,There are 2 chairs visible in the image.
+image1425,Is there a coffee table in front of the sofa?,"Yes, there is a coffee table in front of the sofa."
+image567,Where is the trash can?,The trash can is next to the oven.
+image567,How many wooden cabinets are visible?,There are at least 7 wooden cabinets visible.
+image567,Is there a dishwasher to the right of the cabinets?,"Yes, there is a dishwasher to the right of the cabinets."
+image118,Where is the coffee cup?,The coffee cup is on one of the tables near the front of the room.
+image118,How many tables are there in the image?,There are at least two tables visible in the image.
+image118,Is there a pink shirt on a clothing rack?,"Yes, there is a pink shirt on a clothing rack in the back of the store."
+image1100,Where is the coffee cup?,The coffee cup is on one of the tables near the front of the room.
+image1100,How many tables are there in the image?,There are at least two tables visible in the image.
+image1100,Is there a pink shirt on a clothing rack?,"Yes, there is a pink shirt on a clothing rack in the back of the store."
+image1444,How many pillows are on the daybed?,There are 3 pillows on the daybed.
+image1444,Where is the lamp located?,The lamp is located on the table to the left of the daybed.
+image1444,Is there a painting above the daybed?,"Yes, there is a painting above the daybed."
+image3,Where is the telephone?,The telephone is on the table near a brown box.
+image3,How many pairs of scissors are there?,There is one pair of scissors on the table.
+image3,Is there a book on the table?,"Yes, there is a book on the table."
+image1402,How many chairs are visible in the image?,There are at least 6 chairs visible in the image.
+image1402,Where are the tables located?,The tables are located in the center of the room.
+image1402,Is there a table near the left-hand side of the image?,"Yes, there is a table visible near the left-hand side of the image."
+image1101,Where is the lamp?,"The lamp is on the nightstand, to the left of the bed."
+image1101,How many chairs are there?,There is one chair in the room.
+image1101,Is there a bookshelf in the image?,"Yes, there is a bookshelf in the image, next to the bed."
+image16,Where are the books located?,The books are located on the shelves.
+image16,How many printers are visible in the image?,There are at least 2 printers visible in the image.
+image16,Is there a ladder on the left side of the image?,"Yes, there is a ladder on the left side of the image."
+image1083,Where are the sandals?,The sandals are on the bed.
+image1083,How many pillows are on the bed?,There are 2 pillows on the bed.
+image1083,Is there a plastic bag on the end table?,"Yes, there is a plastic bag on the end table."
+image214,Where is the microwave?,The microwave is on the countertop.
+image214,How many coffee makers are there?,There are two coffee makers.
+image214,Is there a water dispenser to the right of the microwave?,"Yes, there is a water dispenser to the right of the microwave."
+image91,How many backpacks are on display?,There are at least 7 backpacks on display.
+image91,Where are the towels located?,The towels are located on a shelf in the upper right corner of the image.
+image91,Is there a sign hanging on the rack of backpacks?,"Yes, there is a sign hanging on the rack."
+image1427,Where is the lamp with the rooster on the base?,It is on the wooden table.
+image1427,How many paintings are visible in the image?,There are 2 visible paintings in the image.
+image1427,Is there a light switch on the wall?,"Yes, there is a light switch on the wall."
+image693,How many towels are hanging near the window?,There are four towels hanging near the window.
+image693,Where is the black bath mat?,The black bath mat is on the floor near the curtain.
+image693,Is there a toilet in the room?,"Yes, there is a toilet in the room, between the sink and the towels."
+image424,Where is the blue chair?,The blue chair is next to the foosball table.
+image424,How many pairs of socks are on the white table?,There is one pair of socks on the white table.
+image424,Is there a couch in the image?,"Yes, there is a couch in the image."
+image745,How many chairs are visible around the dining table?,There are 3 chairs visible around the dining table.
+image745,Where are the cups and plates?,The cups and plates are on a shelf on the wall.
+image745,Is there a plate on the buffet?,"Yes, there is a decorative plate on the buffet."
+image632,How many coffee tables are in the room?,There are three coffee tables in the room.
+image632,Where is the trash can?,"The trash can is beside one of the armchairs, near the wall."
+image632,Is there a white board on the wall?,"Yes, there is a white board on the wall to the right."
+image799,Where is the framed starburst?,The framed starburst is on the wall to the right of the kitchen.
+image799,How many chairs are visible around the table?,There are two chairs visible around the table.
+image799,Is there a vase on the table?,"Yes, there is a vase on the table."
+image1095,Where is the lamp?,The lamp is on the desk next to the bed.
+image1095,How many pillows are on the bed?,There are 2 pillows on the bed.
+image1095,Is there a curtain to the left?,"Yes, there is a curtain to the left."
+image395,Where is the lamp?,The lamp is on the desk next to the bed.
+image395,How many pillows are on the bed?,There are 2 pillows on the bed.
+image395,Is there a curtain to the left?,"Yes, there is a curtain to the left."
+image1348,Where is the blue toy?,"The blue toy is on the floor, next to the high chair and to the left of the soda boxes."
+image1348,How many stacks of boxes can be seen under the wooden cabinet?,There are two stacks of boxes.
+image1348,Is there a baby high chair in the image?,"Yes, there is a baby high chair in the image."
+image1364,Where is the chandelier located?,The chandelier is located above the dining table.
+image1364,How many framed pictures are on the wall?,There are three framed pictures on the wall.
+image1364,Is there a decorative plate on the table?,"Yes, there is a decorative plate on the table."
+image1447,How many chairs are visible around the table?,There are 5 chairs visible around the table.
+image1447,Is there a picture hanging on the wall?,"Yes, there is a picture hanging on the wall."
+image1447,Where is the centerpiece located?,The centerpiece is located on the table.
+image974,Where is the stuffed animal?,The stuffed animal is sitting on a chair near the window.
+image974,How many pillows are on the bed?,There are at least two pillows on the bed.
+image974,Is there a lamp on the nightstand?,"Yes, there is a lamp on the nightstand."
+image1235,Where is the lamp?,The lamp is on the table next to the sofa.
+image1235,How many shelves are in the built-in shelving unit?,There are three shelves in the built-in shelving unit.
+image1235,Is there a picture frame on the table?,"Yes, there is a picture frame on the table."
+image1179,Where is the alarm clock?,"The alarm clock is on the bedside table, next to the bed."
+image1179,How many pillows are on the bed?,There are at least three pillows on the bed.
+image1179,Is there a hamper on the left side of the bed?,"Yes, there appears to be a hamper on the left side of the bed."
+image51,Where are the books?,The books are on the bookshelf.
+image51,How many framed pictures are on the wall?,There are three framed pictures on the wall.
+image51,Is there a blanket on the couch?,"Yes, there is a blanket on the couch."
+image14,Where is the plant?,The plant is in front of the window next to the couch.
+image14,How many windows are visible?,There are two windows visible.
+image14,Is there a painting on the wall?,"Yes, there is a painting on the wall."
+image261,Where is the laptop?,"The laptop is on the coffee table, in front of the couch."
+image261,How many lamps are there in the image?,There are two lamps in the image.
+image261,Is there a pillow on the couch?,"Yes, there are multiple pillows on the couch."
+image926,Where is the vase?,The vase is on the table.
+image926,How many windows are there?,It appears there is one window.
+image926,Is there a chair in the room?,"Yes, there is a chair in the room."
+image725,Where is the trash can?,"The trash can is next to the stool, underneath the dressing table."
+image725,How many drawers are there on the left side of the counter?,There are three drawers on the left side of the counter.
+image725,Is there a painting on the wall?,"Yes, there is a painting on the wall above the vanity."
+image1375,Where is the toy table?,The toy table is on the chair.
+image1375,How many chairs are there in the image?,There are 3 chairs in the image.
+image1375,Is there a hat on the chair?,"Yes, there is a hat on the chair."
+image1196,Where is the purple pillow?,The purple pillow is on the bed.
+image1196,How many dressers are there?,There is one dresser.
+image1196,Is there a book on the bookshelf?,"Yes, there are books on the bookshelf."
+image116,Where are the blue hoodies located?,The blue hoodies are hanging on a display rack in the store.
+image116,How many stacks of red blankets are in the display?,There is one stack of red blankets in the display.
+image116,Is there a wooden bench on the left side of the image?,"Yes, there is a wooden bench on the left side of the image."
+image968,Where is the ironing board?,The ironing board is next to the window.
+image968,How many mattresses are in the image?,There is one mattress in the image.
+image968,Is there an iron on the ironing board?,"Yes, there is an iron on the ironing board."
+image653,Where is the picture frame?,The picture frame is on the wall to the right of the mirror.
+image653,How many bottles are on the shower rack?,There are 7 bottles on the shower rack.
+image653,Is there a roll of toilet paper on the wall?,"Yes, there is a roll of toilet paper mounted to the wall, to the left of the toilet."
+image472,Where is the painting?,"The painting is on the wall, to the right of the bookshelf."
+image472,How many shelves does the bookshelf have?,The bookshelf has four visible shelves.
+image472,Is there a computer tower next to the wall?,"Yes, there is a computer tower next to the wall."
+image441,Where is the stack of books?,The stack of books is on the desk to the right of the window.
+image441,How many picture frames are on the wall?,There are two picture frames on the wall.
+image441,Is there a chair at the table?,"Yes, there are at least two chairs at the table."
+image1285,How many bowls are on the shelves?,There are 3 bowls on the shelves.
+image1285,Where is the framed wedding photo?,The framed wedding photo is on the cabinet top to the right.
+image1285,How many framed pictures are there on the cabinet top?,There are 6 framed pictures on the cabinet top.
+image1159,Where are the trophies located?,The trophies are located on the window sill.
+image1159,How many picture frames are on top of the dresser?,There are 3 picture frames on top of the dresser.
+image1159,Is there a baseball bat near the desk?,"Yes, there is a baseball bat near the desk."
+image549,Where is the bookshelf?,The bookshelf is on the right side of the image.
+image549,How many doors are there?,There are three doors.
+image549,Are there books on the bookshelf?,"Yes, there are books on the bookshelf."
+image323,Where is the globe?,"The globe is on the wooden shelf, on the left of the image."
+image323,How many red chairs are there?,There are 2 red chairs in the image.
+image323,Is there a guitar near the bookshelf?,"Yes, there is a guitar leaning against the bookshelf."
+image411,Where are the kitchen cabinets?,"The kitchen cabinets are in the background, on the right side of the image."
+image411,How many wicker baskets are on the table?,There are 2 wicker baskets on the table.
+image411,Is there a paper towel dispenser on the wall?,"Yes, there is a paper towel dispenser on the left wall."
+image1234,Where is the lamp located?,The lamp is located on a table next to the couch.
+image1234,How many decorative pillows are on the couch?,There are three decorative pillows on the couch.
+image1234,Is there a picture frame on the table?,"Yes, there is a picture frame on the table."
+image31,How many chairs are visible in the image?,Two chairs are visible in the image.
+image31,Where is the water cooler?,"The water cooler is located on the right side of the image, against the wall."
+image31,Is there a whiteboard in the image?,"Yes, there is a whiteboard on the left side of the image."
+image183,Where is the remote?,The remote is on the bed.
+image183,How many posters are on the wall?,There are two posters on the wall.
+image183,Is there a blanket on the bed?,"Yes, there is a blanket on the bed."
+image1441,Where are the folded clothes?,The folded clothes are on the table.
+image1441,How many chairs are visible?,One chair is clearly visible.
+image1441,Is there a picture frame on the white cabinet?,"Yes, there is a picture frame on the white cabinet."
+image275,Where are the whiteboards located?,The whiteboards are located along the left side of the room.
+image275,How many tables are there?,There appear to be at least 2 tables in the room.
+image275,Is there a chair by the table?,"Yes, there are chairs by the table."
+image1142,Where is the backpack?,The backpack is on the blue couch.
+image1142,How many pillows are on the bed?,There are two pillows visible on the bed.
+image1142,Is there a lamp on the nightstand?,"Yes, there is a lamp on the nightstand."
+image876,Where is the trash can?,The trash can is located near the island.
+image876,How many chairs are in the image?,There appear to be at least 3 chairs in the image.
+image876,Is there a microwave on the counter?,"Yes, there is a microwave on the counter."
+image62,Where is the white bottle?,The white bottle is on top of the dresser.
+image62,How many drawers does the dresser have?,The dresser has two drawers.
+image62,Is there a black bag next to the dresser?,"Yes, there is a black bag next to the dresser."
+image730,Where is the toilet?,The toilet is next to the green wall.
+image730,How many doors are in the image?,There is 1 visible door in the image.
+image730,Is there a trash can near the toilet?,"Yes, there is a trash can with a liner next to the toilet."
+image795,Where is the roll of paper towels?,The roll of paper towels is on the countertop between a glass and a rack.
+image795,How many cabinets are visible?, At least three cabinets are visible.
+image795,Is there a towel in the sink?,"Yes, there is a blue towel in or near the sink."
+image1109,Where is the bed?,The bed is in the foreground of the image.
+image1109,How many shelves are there in the bookcase?,There are four shelves visible in the bookcase.
+image1109,Is there a door on the right side of the image?,"Yes, there is a white door on the right side of the image."
+image362,Where is the piggy bank?,The piggy bank is on the second shelf of the left bookshelf.
+image362,How many bookcases are there?,There are three bookcases.
+image362,Is there a photo frame on the top shelf?,"Yes, there is a photo frame on the top shelf of the left bookshelf."
+image821,Where is the laptop?,The laptop is on the kitchen island.
+image821,How many ovens are there?,There are two ovens stacked together.
+image821,Is there a picture on the wall?,"Yes, there is a picture hanging on the wall."
+image443,Where is the toy bin?,The toy bin is next to the toy storage rack.
+image443,How many dollhouses are there?,There is one dollhouse.
+image443,Is there a rug on the floor?,"Yes, there is a sports-themed rug on the floor."
+image669,How many towels are on the shelving unit?,There are 4 towels on the shelving unit.
+image669,Where are the bottles located?,The bottles are located on a small tray on the side of the bathtub.
+image669,Is there a faucet on the tub?,"Yes, there is a faucet on the tub."
+image305,Where is the whiteboard located?,"The whiteboard is located at the front of the classroom, behind the teacher."
+image305,How many students are sitting at the desks?,There are at least four students sitting at desks in the image.
+image305,Are there any posters on the wall?,"Yes, there are several posters on the wall to the left of the students."
+image697,Where is the towel?,The towel is hanging on a towel ring next to the mirror.
+image697,How many drawers are visible on the vanity?,There are five drawers visible on the vanity.
+image697,Is there a bottle of antiseptic on the counter?,"Yes, there is a dark brown bottle of antiseptic on the counter to the right of the electric toothbrush."
+image49,Where is the tube of toothpaste?,It is on the counter next to the sink.
+image49,How many bottles are on the counter?,There are two bottles on the counter.
+image49,Is there a towel hanging on the shower door?,"Yes, there is a towel hanging on the shower door."
+image760,Where is the can?,"The can is on the counter, next to the stovetop."
+image760,How many chairs are visible in the dining room?,There are 3 chairs visible in the dining room.
+image760,Is there a bag on the counter in the kitchen?,"Yes, there is a brown bag on the counter in the kitchen."
+image139,Where is the toaster oven?,The toaster oven is on the kitchen counter.
+image139,How many wooden cabinets are there?,There are at least 3 wooden cabinets.
+image139,Is there a coffee maker on the counter?,"Yes, there is a coffee maker on the counter."
+image754,Where is the kettle?,The kettle is on the stove.
+image754,How many bottles are on the countertop near the stove?,There are two bottles on the countertop near the stove.
+image754,Is there a computer on the desk?,"Yes, there is a computer on the desk."
+image308,Where is the red lamp?,The red lamp is on a table in the back right corner of the room.
+image308,How many world maps are in the image?,"There are two world maps in the image. One is on the back wall, and the other is on a shelf."
+image308,Is there a water bottle on the desk?,"Yes, there is a water bottle on one of the desks."
+image371,Where are the books?,The books are on the bookshelf to the left of the desk.
+image371,How many picture frames are there on the desk?,There are two picture frames on the desk.
+image371,Is there a printer on the desk?,"Yes, there is a printer on the desk."
+image304,Where is the whiteboard?,The whiteboard is at the front of the classroom.
+image304,How many children are at the desks?,There are at least 6 children at the desks.
+image304,Is there a trash can near the window?,"Yes, there is a grey trash can near the window."
+image1216,How many chairs are in the image?,There are 3 chairs in the image.
+image1216,Where are the books?,The books are located in the bookshelves.
+image1216,Is there a picture on the wall?,"Yes, there is a picture on the wall."
+image302,Where are the backpacks located?,The backpacks are hanging on hooks on the wall below the large brown bulletin board.
+image302,How many posters are visible on the wall?,There are two posters visible on the wall to the right of the bulletin board.
+image302,Is there a waste basket in the image?,"Yes, there is a black waste basket in the bottom left corner of the image."
+image70,How many flower vases are on the bedside table?,There is one flower vase on the bedside table.
+image70,Where is the window?,The window is on the wall behind the bed.
+image70,Is there a printer on the bedside table?,"Yes, there is a printer on the bedside table."
+image877,How many chairs are visible in the image?,There are three chairs visible in the image.
+image877,Where is the trash can?,"The trash can is on the floor, next to the island."
+image877,Is there a towel on the dishwasher?,"Yes, there is a towel on the dishwasher."
+image21,Where is the water cooler located?,The water cooler is located next to the open doorway.
+image21,How many bottles of hand sanitizer are on the desk?,There are two bottles of hand sanitizer on the desk.
+image21,Is there a clock on the wall?,"Yes, there is a clock on the wall."
+image744,Where is the bathmat?,The bathmat is inside the bathtub.
+image744,How many bottles are on the shelf?,There are 3 bottles on the shelf.
+image744,Is there a toilet seat on the toilet?,"Yes, there is a toilet seat on the toilet."
+image958,Where is the bedside table lamp located?,"The bedside table lamp is located on a small round table, to the right of the bed."
+image958,How many decorative pillows are on the bed?,There are three decorative pillows on the bed.
+image958,Is there a lamp near the window?,"Yes, there is a tall lamp standing near the window."
+image1423,Where is the silver candelabra?,"The silver candelabra is on top of the wooden cabinet, to the left of a painting."
+image1423,How many paintings are hanging on the wall?,There are two paintings hanging on the wall.
+image1423,Is there a chair in the room?,"Yes, part of a wooden chair can be seen on the right side of the image."
+image1442,Where are the red chairs?,"The red chairs are behind the table, in the lower left corner of the image."
+image1442,How many paintings are on the walls?,There are two paintings on the walls.
+image1442,Is there a rug on the floor?,"Yes, there is a rug on the floor."
+image19,Where is the projector located?,"The projector is located on the ceiling, in front of the whiteboard."
+image19,How many chairs are visible around the table?,There are at least six chairs visible around the table.
+image19,Is there a whiteboard on the wall?,"Yes, there is a whiteboard on the wall in the background."
+image665,How many decorative animal figurines are on the counter?,There are 3 decorative animal figurines on the counter.
+image665,Where is the bar of soap?,"The bar of soap is on the soap dish, to the left of the sink."
+image665,Is there a white towel on the towel rack?,"Yes, there is a white towel on the towel rack."
+image1429,Where is the white sofa?,"The white sofa is in the middle of the room, to the left of the coffee table."
+image1429,How many chairs are visible?,At least three chairs are visible in the room.
+image1429,Is there a lamp on the table behind the loveseat?,"Yes, there is a lamp on the table behind the loveseat."
+image391,Where is the Homer Simpson doll?,The Homer Simpson doll is sitting on the blue fabric next to the white door.
+image391,How many pictures are on the wall?,There are two pictures on the wall.
+image391,Is there a desk in the room?,"Yes, there is a desk in the room. It is near the left side of the image."
+image1426,How many chairs are around the glass table?,There are six chairs around the glass table.
+image1426,Where is the lamp located?,The lamp is located on a table to the left of the chairs.
+image1426,Is there a picture frame on the wall?,"Yes, there is a picture frame on the wall behind the chairs."
+image1334,Where is the red throw?,The red throw is on the left side of the brown sectional sofa.
+image1334,How many pillows are on the brown sectional sofa?,There are four pillows on the brown sectional sofa.
+image1334,Is there a rug on the floor?,"Yes, there is a rug on the floor."
+image379,Where is the pile of papers?,The pile of papers is on the ottoman.
+image379,How many chairs are in the image?,There are 3 chairs in the image.
 image379,Is there a lamp on the side table?,"Yes, there is a lamp on the side table."
-image379,What is the position of the desk relative to the chair?,The desk is behind the chair.
-image379,Are there more than 5 pieces of paper on the ottoman?,"Yes, there are more than 5 pieces of paper on the ottoman."
-image531,Where is the tall white lamp?,The tall white lamp is located next to the desk and dresser.
-image531,How many drawers are visible on the dresser?,There are three drawers visible on the dresser.
-image531,Is there a phone on top of the dresser?,"Yes, there is a phone on top of the dresser."
-image531,What is the position of the desk chair relative to the desk?,The desk chair is in front of the desk.
-image531,Are there more than 1 piece of clothing on the floor?,"Yes, there are more than 1 piece of clothing on the floor."
-image1336,Where is the bookcase?,The bookcase is in the background on the left.
-image1336,How many chairs are visible?,Two chairs are visible.
-image1336,Is there a fan on the ceiling?,"Yes, there is a fan on the ceiling."
-image1336,What is the position of the fan relative to the counter?,The fan is above the counter.
-image1336,Are there more than one pillows on the sofa?,"Yes, there are more than one pillows on the sofa."
-image1170,Where is the monitor?,"The monitor is on the desk, to the left."
-image1170,How many bookcases are there?,There are two bookcases.
-image1170,Is there a blanket on the chair?,"Yes, there is a blanket on the chair."
-image1170,What is on top of the tallest bookcase?,A set of horns is on top of the tallest bookcase.
-image1170,Are there more than 10 books in the taller bookcase?,"Yes, there are more than 10 books in the taller bookcase."
-image528,Where is the water bottle?,"The water bottle is on the desk, behind the monitor."
-image528,How many drawers are on the nightstand?,There are two drawers on the nightstand.
-image528,Is there a bed in the image?,"Yes, there is a bed in the image."
-image528,What is the position of the printer relative to the desk?,"The printer is to the left of the desk, on top of the nightstand."
-image528,Are there more than one monitor in the image?,"Yes, there are two monitors in the image."
-image772,How many chairs are visible in the image?,There are at least three chairs visible in the image.
-image772,Where is the fruit bowl located?,The fruit bowl is located on the table.
-image772,Are there more than 4 chairs in the image?,"No, there are not more than 4 chairs in the image."
-image772,What is the position of the rug relative to the table?,The rug is under the table and chairs.
-image772,Is there a light fixture above the table?,"Yes, there is a light fixture above the table."
-image64,Where is the pillow?,"The pillow is on the bed, against the wall."
-image64,How many visible pillows are there?,There is one visible pillow.
-image64,Is there a nightstand next to the bed?,"Yes, there is a nightstand next to the bed."
-image64,What is on top of the nightstand?,There is a pile of papers and some other small objects on top of the nightstand.
-image64,Are there more than 5 papers visible on the nightstand?,"Yes, there are more than 5 papers visible on the nightstand."
-image1099,Where is the bookshelf?,"The bookshelf is on the left side of the image, next to the wall and beside the window."
-image1099,How many beds are there in the image?,There is one bed in the image.
-image1099,Is there a waste basket near the bedside table?,"Yes, there is a waste basket next to the bedside table on the left side of the image."
-image1099,What is the position of the window relative to the bed?,The window is behind the head of the bed.
-image1099,Are there more than 5 shelves in the bookshelf?,"Yes, there are more than 5 shelves in the bookshelf."
-image1161,Where is the sports cooler?,The sports cooler is under the desk.
-image1161,How many soccer balls are on the desk?,There are 2 soccer balls on the desk.
-image1161,Is there a lamp on the desk?,"Yes, there is a lamp on the desk."
-image1161,What is the position of the baseball bat relative to the picture?,The baseball bat is under the picture.
-image1161,Are there more than 3 trophies on the window sill?,"Yes, there are more than 3 trophies on the window sill."
-image1269,Where is the chair located?,"The chair is located to the right of the small table, and in front of the white shutters."
-image1269,How many framed pictures are visible on the wall?,There are two framed pictures visible on the wall.
-image1269,Is there a lamp on the table?,"Yes, there is a lamp on the table."
-image1269,What is the position of the table relative to the chair?,The table is to the left of the chair.
-image1269,Are there more than one window in the image?,"Yes, there are more than one window in the image."
-image607,Where is the pillow?,The pillow is on the futon.
-image607,How many shelves are in the white bookcase?,There appear to be at least four shelves in the white bookcase.
-image607,Is there a stool near the desk?,"Yes, there is a stool near the desk."
-image607,What is the position of the clothes relative to the futon?,The clothes are on the futon.
-image607,Are there more than one pillow in the image?,"Yes, there are more than one pillow in the image. There appears to be one purple pillow and the futon itself is acting as a large pillow."
-image661,Where is the bottle of soap?,The bottle of soap is on the countertop to the right of the right sink.
-image661,How many sinks are visible?,Two sinks are partially visible.
-image661,Is there a window behind the sinks?,"Yes, there is a window with blinds behind the sinks."
-image661,What is the position of the vase relative to the sinks?,"The vase is between the two sinks, closer to the left sink."
-image661,Are there more than one towel on the towel rack?,"Yes, there are two towels on the towel rack."
-image1306,Where is the red object?,"The red object is on the floor, near the doorway."
-image1306,How many doors are visible in the image?,There are two doors visible in the image.
-image1306,Is there a table in the back room?,"Yes, there is a table in the back room."
-image1306,What is the position of the plate relative to the piano?,The plate is on top of the piano.
-image1306,Are there more than 5 books on the shelf?,"Yes, there are more than 5 books on the shelf."
-image835,Where is the water cooler?,The water cooler is near the wall to the left side of the image.
-image835,How many chairs are visible near the table?,There is one chair near the table.
-image835,Is there a bottle on the countertop?,"Yes, there are at least two bottles on the countertop."
-image835,What is the position of the kettle relative to the cabinet?,The kettle is on the countertop to the left of the cabinet.
-image835,Are there more than one step stools in the image?,"Yes, there appears to be one step stool."
-image276,Where are the office chairs located?,The office chairs are primarily located around the large conference table and also in the adjacent office area.
-image276,How many lights are visible on the ceiling?,There are at least 7 ceiling lights visible in the image.
-image276,Is there a conference table in the room?,"Yes, there is a large conference table in the foreground of the room."
-image276,What is the position of the conference table relative to the windows?,The conference table is positioned in front of the windows.
-image276,Are there more than 5 chairs in the room?,"Yes, there are definitely more than 5 chairs visible in the image."
-image598,Where is the red couch located?,"The red couch is located near the patterned couch, against the wall."
-image598,How many couches are in the image?,There are three couches in the image.
-image598,Is there a remote control on the coffee table?,"Yes, there are at least one remote control on the coffee table."
-image598,What is the position of the coffee table relative to the patterned couch?,The coffee table is in front of the patterned couch.
-image598,Are there more than two cushions on the patterned couch closest to the viewer?,"Yes, there are more than two cushions on the patterned couch closest to the viewer."
-image703,Where is the trash can?,"The trash can is on the floor, to the left of the toilet."
-image703,How many toilet paper rolls are visible?,There are three toilet paper rolls visible.
-image703,Is there a towel rack on the wall?,"Yes, there is a towel rack on the wall."
-image703,What is the position of the toilet relative to the wall?,The toilet is against the wall on the right side of the image.
-image703,Are there more than two drawers visible on the cabinet?,"Yes, there are more than two drawers visible on the cabinet."
-image729,Where is the towel?,The towel is hanging on a towel rack above the countertop.
-image729,How many drawer pulls are visible?,There are three drawer pulls visible on the vanity.
-image729,Is there a bathmat in the image?,"Yes, there is a bathmat on the floor in front of the shower curtain."
-image729,What is the position of the sink relative to the soap dispenser?,The sink is to the left of the soap dispenser.
-image729,Are there more than one towels in the image?,"Yes, there are two towels in the image."
-image64,Where is the nightstand?,"The nightstand is next to the bed, to the right of the image."
-image64,How many pillows are on the bed?,There is at least one pillow visible on the bed.
-image64,Is there a lamp on the nightstand?,"It's difficult to say for sure if it is a lamp, but there is a bottle like object on the nightstand."
-image64,What is the position of the bed relative to the wall?,The bed is pushed against the wall on the left side of the image.
-image64,Are there more than 5 pieces of paper on the nightstand?,"Yes, there appear to be more than 5 pieces of paper on the nightstand."
-image1390,Where is the vase of flowers?,The vase of flowers is on the dining table.
-image1390,How many pictures are hanging on the wall near the window?,There are 4 pictures hanging on the wall near the window.
-image1390,Is there a mirror on the wall in the background?,"Yes, there is a mirror on the wall in the background."
-image1390,What is the position of the corner cabinet relative to the dining table?,The corner cabinet is to the right of the dining table.
-image1390,Are there more than 4 chairs at the dining table?,"Yes, there are more than 4 chairs at the dining table."
-image1223,Where is the cabinet located?,The cabinet is located to the right of the windows.
-image1223,How many windows are there?,There are two windows.
-image1223,Is there a black cube on the floor?,"Yes, there is a black cube on the floor, near the wall."
-image1223,What is the position of the black mini-fridge relative to the white cabinet?,The black mini-fridge is located to the right of the white cabinet.
-image1223,Are there more than one cabinet in the image?,"Yes, there are more than one cabinet in the image."
-image997,Where is the teddy bear?,"The teddy bear is on the bed, resting against the pillows."
-image997,How many lamps are there in the image?,There are two lamps in the image.
-image997,Is there a trash can on the left side of the room?,"Yes, there is a trash can on the left side of the room."
-image997,What is the position of the left-side nightstand relative to the bed?,The left-side nightstand is to the left of the bed.
-image997,Are there more than 3 pillows on the bed?,"No, there are not more than 3 pillows on the bed."
-image406,Where is the pile of clothes?,The pile of clothes is on top of the dresser.
-image406,How many laundry detergent bottles are visible on the washing machine?,There appears to be one large blue laundry detergent bottle and possibly a white bottle on the washing machine.
-image406,Is there a blue laundry basket on the floor?,"Yes, there is a blue laundry basket on the floor."
-image406,What is the position of the cabinets relative to the washing machine?,The cabinets are above the washing machine.
-image406,Are there more than 5 garments hanging in the closet?,"Yes, there are more than 5 garments hanging in the closet."
-image937,Where is the white shelf with items on it?,"The white shelf is located behind the bed, near the wall."
-image937,How many pink storage boxes are in the image?,There are two pink storage boxes on the shelf.
-image937,Is there a blue towel on the green table?,"Yes, there is a blue towel on the green table."
-image937,What is the position of the bed relative to the green table?,The bed is to the left of the green table.
-image937,Are there more than one stuffed animal on the bed?,"Yes, there is more than one stuffed animal on the bed."
-image1065,Where is the teddy bear?,The teddy bear is on top of the tall dresser.
-image1065,How many drawers does the dresser with the bookshelf have?,The dresser with the bookshelf has three drawers.
-image1065,Is there a hanger on the closet doors?,"Yes, there are two hangers on the closet doors."
-image1065,What is the position of the dresser with the bookshelf relative to the bed?,The dresser with the bookshelf is to the right of the bed.
-image1065,Are there more than two dressers in the image?,"No, there are two dressers in the image."
-image971,Where is the plush toy?,The plush toy is on the bench.
-image971,How many pillows are visible near the bed?,There appear to be two pillows near the bed.
-image971,Is there a window behind the bench?,"Yes, there is a window behind the bench."
-image971,What is the position of the bench relative to the window?,The bench is positioned in front of the window.
-image971,Are there more than one object on the bench?,"Yes, there are more than one objects on the bench."
-image1124,Where are the teddy bears?,The teddy bears are located next to the bed near the window.
-image1124,How many paintings are on the wall?,There are three paintings on the wall.
-image1124,Is there a book on the floor?,"Yes, there is a book on the floor."
-image1124,What is the position of the chair relative to the desk?,The chair is in front of the desk.
-image1124,Are there more than 5 teddy bears in the image?,"Yes, there are more than 5 teddy bears in the image."
-image54,Where is the laptop?,The laptop is on the dining table.
-image54,How many framed pictures are on the wall?,There are two framed pictures on the wall.
-image54,Is there a microwave in the kitchen?,"Yes, there is a microwave in the kitchen, visible through the opening in the wall."
-image54,What is the position of the book relative to the laptop?,The book is in front of the laptop on the table.
-image54,Are there more than two chairs visible in the image?,"Yes, there are more than two chairs visible."
-image276,How many lights are visible on the ceiling?,There appear to be at least 8 lights visible on the ceiling.
-image276,Where is the conference table located?,The conference table is located in the center of the room.
-image276,Are there any chairs around the conference table?,"Yes, there are several chairs around the conference table."
-image276,What is the position of the window relative to the conference table?,The window is located on the right side of the conference table.
-image276,Is there more than one pillar in the room?,"Yes, there are at least two pillars visible in the room."
-image515,Where is the window?,The window is behind the bed on the left side of the image.
-image515,How many curtains are there?,There are two curtains.
-image515,Is there a mirror on the wall?,"Yes, there is a mirror leaning on the wall."
-image515,What is the position of the bed relative to the mirror?,The bed is to the left of the mirror.
-image515,Are there more than one pillow on the bed?,"Yes, there is more than one pillow on the bed."
-image741,Where is the trash can?,The trash can is to the right of the toilet and near the red curtain.
-image741,How many windows are in the image?,There are two windows in the image.
-image741,Is there a painting on the wall?,"Yes, there is a painting on the wall next to the mirror."
-image741,What is the position of the toilet relative to the sink?,The toilet is to the right of the sink.
-image741,Are there more than five objects in the basket on the sink?,"Yes, there are more than five objects in the basket on the sink."
-image688,Where is the trash can?,The trash can is to the right of the toilet and near the red curtain.
-image688,How many windows are in the image?,There are two windows in the image.
-image688,Is there a painting on the wall?,"Yes, there is a painting on the wall next to the mirror."
-image688,What is the position of the toilet relative to the sink?,The toilet is to the right of the sink.
-image688,Are there more than five objects in the basket on the sink?,"Yes, there are more than five objects in the basket on the sink."
-image1183,Where is the trash can?,The trash can is to the right of the toilet and near the red curtain.
-image1183,How many windows are in the image?,There are two windows in the image.
-image1183,Is there a painting on the wall?,"Yes, there is a painting on the wall next to the mirror."
-image1183,What is the position of the toilet relative to the sink?,The toilet is to the right of the sink.
-image1183,Are there more than five objects in the basket on the sink?,"Yes, there are more than five objects in the basket on the sink."
-image424,Where is the trash can?,The trash can is to the right of the toilet and near the red curtain.
-image424,How many windows are in the image?,There are two windows in the image.
-image424,Is there a painting on the wall?,"Yes, there is a painting on the wall next to the mirror."
-image424,What is the position of the toilet relative to the sink?,The toilet is to the right of the sink.
-image424,Are there more than five objects in the basket on the sink?,"Yes, there are more than five objects in the basket on the sink."
-image612,Where is the computer monitor?,"The computer monitor is on the desk, to the left of the shelves."
-image612,How many cabinets are there?,There are 5 cabinets.
-image612,Is there a trash can next to the desk?,"Yes, there is a trash can next to the desk."
-image612,What is the position of the chair relative to the desk?,The chair is in front of the desk.
-image612,Are there more than 2 picture frames in the image?,"Yes, there are more than 2 picture frames in the image."
-image817,Where is the computer monitor?,"The computer monitor is on the desk, to the left of the shelves."
-image817,How many cabinets are there?,There are 5 cabinets.
-image817,Is there a trash can next to the desk?,"Yes, there is a trash can next to the desk."
-image817,What is the position of the chair relative to the desk?,The chair is in front of the desk.
-image817,Are there more than 2 picture frames in the image?,"Yes, there are more than 2 picture frames in the image."
-image184,Where is the computer monitor?,"The computer monitor is on the desk, to the left of the shelves."
-image184,How many cabinets are there?,There are 5 cabinets.
-image184,Is there a trash can next to the desk?,"Yes, there is a trash can next to the desk."
-image184,What is the position of the chair relative to the desk?,The chair is in front of the desk.
-image184,Are there more than 2 picture frames in the image?,"Yes, there are more than 2 picture frames in the image."
-image964,Where is the television?,The television is on top of the dresser.
-image964,How many drawers are visible on the dresser?,There are six drawers visible on the dresser.
-image964,Is there a bookshelf next to the dresser?,"Yes, there is a bookshelf next to the dresser."
-image964,What is the position of the box relative to the television?,The box is to the right of the television.
-image964,Are there more than 10 books visible in the image?,"Yes, there are more than 10 books visible in the image."
+image706,Where is the scale?,The scale is in front of the window.
+image706,How many framed pictures are on the wall near the towels?,There are 3 framed pictures on the wall near the towels.
+image706,Is there a curtain by the bathtub?,"Yes, there is a curtain by the bathtub."
+image837,Where is the remote control?,The remote control is on the kitchen island countertop.
+image837,How many Whole Foods bags are there?,There is one Whole Foods bag.
+image837,Is there a toaster on the counter?,"Yes, there is a toaster on the counter."
+image1072,How many pairs of shoes are on the floor in front of the window?,There are 2 pairs of shoes on the floor.
+image1072,Where is the television located?,The television is located on a dark wood stand in the left side of the image.
+image1072,Is there curtains on the window?,"Yes, there are red curtains on the window."
+image1428,How many chairs are around the table?,There are 6 chairs around the table.
+image1428,Where is the statue?,The statue is next to the doorway.
+image1428,Is there a rug on the floor?,"Yes, there is a rug on the floor."
+image801,Where is the television?,The television is on the wall in the living area.
+image801,How many chairs are at the table?,There are four chairs at the table.
+image801,Is there a ceiling fan in the room?,"Yes, there is a ceiling fan visible near the background."
+image1082,Where is the treadmill?,The treadmill is next to the window.
+image1082,How many pictures are on the wall?,There are two pictures on the wall.
+image1082,Is there a crib on the left side of the room?,"Yes, there is a crib on the left side of the room."
+image570,Where is the coffee maker located?,The coffee maker is on top of the microwave.
+image570,How many bananas are in the bowl?,There are 2 bananas in the bowl.
+image570,Is there a fire extinguisher under the countertop?,"Yes, there is a fire extinguisher under the countertop."
+image1077,Where is the ladder located?,"The ladder is located in front of the bunk bed, between the top and bottom beds."
+image1077,How many beds are there in the room?,"There are three beds in the room; a bunk bed with two beds, and a single bed in the foreground."
+image1077,Is there a toy shelf in the room?,"Yes, there is a toy shelf next to the bunk bed."
+image652,How many bottles of shampoo are next to the bathtub?,There are at least 6 bottles of shampoo next to the bathtub.
+image652,Where is the shower caddy?,The shower caddy is in the corner of the shower.
+image652,Is there a shower curtain?,"Yes, there is a shower curtain in the bathroom."
+image818,Where is the milk carton?,The milk carton is on the counter next to the computer.
+image818,How many cabinets are there?,There are at least 6 cabinets visible.
+image818,Is there a sink on the counter?,"Yes, there is a sink on the counter."
+image692,How many bottles are in the wall niche?,There are 5 bottles in the wall niche.
+image692,Where is the tube of toothpaste located?,The tube of toothpaste is on the bathtub ledge.
+image692,Is there a shower curtain in the image?,"Yes, there is a colorful shower curtain in the image."
+image333,How many computer monitors are visible?,There are at least 10 computer monitors visible.
+image333,Where are the keyboards located?,"The keyboards are on the desks, in front of the computer monitors."
+image333,Is there a door visible in the image?,"Yes, there is a door visible in the background."
+image1212,Where is the piano?,The piano is in the upper right portion of the image.
+image1212,How many tables are there?,There are two tables.
+image1212,Is there a stool next to the piano?,"Yes, there is a stool next to the piano."
+image971,Where is the stuffed animal?,"The stuffed animal is on the bench, near the window."
+image971,How many pillows are on the floor?,There are two pillows on the floor.
+image971,Is there a comforter on the bed?,"Yes, there is a comforter on the bed."
+image107,Where are the books located?,The books are located on shelves that line the walls.
+image107,How many white columns are visible?,Two white columns are visible in the image.
+image107,Is there a circular bench around one of the columns?,"Yes, there is a circular wooden bench around one of the columns."
+image1284,Where is the stack of books?,The stack of books is on the coffee table.
+image1284,How many sofas are there?,There is one sofa.
+image1284,Is there a picture on the wall?,"Yes, there is a picture on the wall."
+image588,How many lamps are in the image?,There are three lamps in the image.
+image588,Where is the armchair located?,The armchair is located next to the side table.
+image588,Are there any pictures on the wall?,"Yes, there are three pictures on the wall above the chair."
+image937,Where are the curtains?,The curtains are hanging in front of the window.
+image937,How many shelves are visible in the bookcase?,There are three shelves visible in the bookcase.
+image937,Is there a blanket on the green table?,"Yes, there is a blue and yellow blanket on the green table."
+image1157,Where is the lamp?,The lamp is on the desk.
+image1157,How many shoes are on the floor?,There are two shoes on the floor.
+image1157,Is there a stuffed animal on the bed?,"Yes, there is a stuffed animal on the bed."
+image377,Where is the black frame?,"The black frame is on the floor, in front of the bookshelf."
+image377,How many cardboard boxes are there on the floor?,There are two cardboard boxes on the floor.
+image377,Is there a computer on the bookshelf?,"Yes, there is a computer on the bookshelf."
+image810,How many chairs are visible in the image?,There are 4 chairs visible in the image.
+image810,Is there a plant in the window?,"Yes, there is a large plant in the window."
+image810,Where is the refrigerator?,"The refrigerator is in the kitchen, near the cabinets."
+image98,Where are the books located?,The books are located on shelves filling the back wall of the store.
+image98,"How many shelves of ""NYU"" mugs are visible in the photo?","There are three shelves of ""NYU"" mugs visible in the photo."
+image98,Is there a black stool in the image?,"Yes, there is a black stool in the bottom left corner of the image."
+image1277,How many chairs are in the image?,There are two chairs in the image.
+image1277,Where is the flower arrangement?,"The flower arrangement is near the window, behind the sofa."
+image1277,Is there a package on the coffee table?,"Yes, there is a package on the coffee table."
+image1259,Where is the lamp?,The lamp is on the end table next to the window.
+image1259,How many pictures are on the mantel?,There are eight pictures on the mantel.
+image1259,Is there a coffee cup on the coffee table?,"Yes, there is a coffee cup on the coffee table."
+image925,Where is the dresser?,The dresser is located in the corner of the room.
+image925,How many chairs are in the image?,There are 2 chairs in the image.
+image925,Is there a door in the background?,"Yes, there is a door in the background."
+image1391,Where is the framed artwork?,The framed artwork is on the wall above the wooden cabinet.
+image1391,How many windows are visible?,Two windows are visible in the image.
+image1391,Is there a blue decorative object on the cabinet?,"Yes, there is a blue decorative object on the cabinet."
+image1016,Where is the framed artwork?,The framed artwork is on the wall above the wooden cabinet.
+image1016,How many windows are visible?,Two windows are visible in the image.
+image1016,Is there a blue decorative object on the cabinet?,"Yes, there is a blue decorative object on the cabinet."
+image649,Where are the bottles of soap?,The bottles of soap are on the shelf above the counter.
+image649,How many electric toothbrushes are there on the counter?,There are two electric toothbrushes on the counter.
+image649,Is there a bathtub behind the shower curtain?,"Yes, there is a bathtub behind the shower curtain."
+image1280,How many chairs are in the room?,There are two chairs in the room.
+image1280,Where is the artwork?,The artwork is hanging on the wall behind the chairs.
+image1280,Is there a blanket on the couch?,"Yes, there is a blanket on the arm of the couch."
+image68,Where is the television?,The television is on top of the dresser.
+image68,How many drawers are on the dresser?,There appear to be four drawers on the dresser.
+image68,Is there a bag on the floor?,"Yes, there is a pink bag on the floor to the left of the dresser."
+image99,Where are the books?,The books are on shelves near the left side of the image.
+image99,How many clothing racks are there in the picture?,There appears to be at least one clothing rack in the image.
+image99,Are there any columns in the image?,"Yes, there is at least one large white column in the background."
+image1094,Where is the lamp?,"The lamp is on the nightstand, next to the bed."
+image1094,How many pillows are on the bed?,There are 4 pillows on the bed.
+image1094,Is there a picture on the wall?,"Yes, there is a framed picture on the wall above the headboard of the bed."
+image1204,Where is the armchair?,The armchair is to the right of the coffee table.
+image1204,How many chairs are at the table?,There are 3 chairs at the table.
+image1204,Is there a pillow on the couch?,"Yes, there is at least one pillow on the couch."
+image536,Where is the wall hanging?,The wall hanging is on the wall to the left of the chair.
+image536,How many power outlets are visible in the image?,There is one visible power outlet.
+image536,Is there a table to the right of the chair?,"Yes, there is a table to the right of the chair."
+image58,Where is the picture?,The picture is on the wall above the headboard of the bed.
+image58,How many pillows are on the bed?,There are two pillows visible on the bed.
+image58,Is there a bedspread on the bed?,"Yes, there is a bedspread on the bed."
+image1176,Where is the lamp?,The lamp is next to the bed on the left side.
+image1176,How many pillows are on the bed?,There are three pillows on the bed.
+image1176,Is there a bedside table on the right side of the bed?,"Yes, there is a bedside table on the right side of the bed."
+image237,Where is the blue and white wall hanging?,The wall hanging is on the wall to the left of the shelf.
+image237,How many chairs are there in the image?,There are two chairs visible in the image.
+image237,Is there a shelf with items on display?,"Yes, there is a shelf with various ceramic items on display, behind the chairs."
+image1233,How many pillows are on the couch?,There are four pillows on the couch.
+image1233,Where is the lamp?,The lamp is on a table to the left of the couch.
+image1233,Is there a picture hanging on the wall?,"Yes, there is a picture hanging on the wall above the couch."
+image751,Where is the microwave?,"The microwave is located on the wall above the counter, to the left."
+image751,How many coffee makers are there on the countertop?,There are two coffee makers on the countertop.
+image751,Is there a breadbox on the countertop?,"Yes, there is a white breadbox on the countertop."
+image1228,How many candlesticks are on the table?,There are two candlesticks on the table.
+image1228,Where are the books located?,The books are on the table near the end of the table.
+image1228,How many chairs are visible in the image?,At least three chairs are visible in the image.
+image860,How many packets of food are on the counter?,There are 2 packets of food on the counter.
+image860,Where are the candles?,The candles are on the counter.
+image860,How many pieces of art are on the wall?,There are 3 pieces of art on the wall.
+image565,How many placemats are on the table?,There are four placemats on the table.
+image565,Where is the fruit bowl?,The fruit bowl is on the table.
+image565,Is there a figurine on top of the refrigerator?,"Yes, there is a figurine on top of the refrigerator."
+image793,How many peaches are on the counter?,There are two peaches on the counter.
+image793,Where is the microwave?,The microwave is on the counter next to the oven.
+image793,Is there a banana on the counter?,"Yes, there is a banana on the counter."
+image303,Where are the backpacks located?,The backpacks are hanging on a row of hooks against the wall.
+image303,How many round tables are visible in the image?,There are two round tables visible.
+image303,Is there a tissue box on the table?,"Yes, there is a tissue box on the table."
+image267,Where is the green liquid container?,The green liquid container is on top of the lower left cabinet.
+image267,How many women are in the image?,There are two women in the image.
+image267,Is there a stove on the right side of the image?,"Yes, there is a stove on the right side of the image."
+image41,Where is the whiteboard?,"The whiteboard is on the wall, to the left of the green screen."
+image41,How many chairs can you see in the image?,I can see three chairs in the image.
+image41,Is there a table in the image?,"Yes, there is a table on the left side of the image."
+image1068,Where is the trash can?,The trash can is next to the nightstand.
+image1068,How many bottles are on the desk?,There are three bottles on the desk.
+image1068,Is there a bag on the blue bin?,"Yes, there is a bag on the blue bin."
+image804,How many plastic shopping bags are visible on the counter?,There are 4 plastic shopping bags on the counter.
+image804,Where is the stainless steel refrigerator located?,The refrigerator is located on the right side of the image.
+image804,Is there a window in the image?,"Yes, there is a window in the image, behind the counter."
+image1349,How many candles are on the table?,There are 5 candles on the table.
+image1349,Where is the lamp?,The lamp is on the wooden cabinet.
+image1349,Is there a bowl on the table?,"Yes, there is a bowl on the table."
+image1172,Where is the red blanket?,The red blanket is draped across the blue bed.
+image1172,How many posters are on the wall?,There are two posters on the wall.
+image1172,Is there a nightstand next to the bed?,"Yes, there is a nightstand to the left of the bed."
+image1252,How many framed pictures are on the wall?,There appear to be about 27 framed pictures on the wall.
+image1252,Where is the vase of flowers?,The vase of flowers is on the ledge or side table next to the couch.
+image1252,Is there a magazine on the couch?,"Yes, there appears to be a magazine on the couch."
+image788,Where is the microwave?,"The microwave is on the counter, next to the sink."
+image788,How many cupboards are visible?,There are 4 cupboards visible.
+image788,Is there a picture on the wall?,"Yes, there is a picture on the wall next to the doorway."
+image761,How many chairs are in the image?,There are 4 chairs in the image.
+image761,Where is the table?,The table is in the center of the image.
+image761,Is there a cushion on the chair?,"Yes, there are cushions on the chairs."
+image644,Where is the blanket?,The blanket is on the couch.
+image644,How many pillows are on the couch?,There appear to be two pillows on the couch.
+image644,Is there a bookshelf in the room?,"Yes, there is a bookshelf in the room."
+image310,How many blue bookcases are there?,There are 5 blue bookcases in the image.
+image310,Where are the desks located?,The desks are located in the center of the room.
+image310,Is there a light fixture on the ceiling?,"Yes, there is a light fixture on the ceiling."
+image897,Where is the dish rack?,"The dish rack is located on the counter, next to the sink."
+image897,How many kettles are on the counter?,There are two kettles on the counter.
+image897,Is there a dishwasher under the counter?,"Yes, there is a dishwasher under the counter."
+image205,Where is the toaster?,"The toaster is on the countertop, near the cabinet."
+image205,How many handles are on the refrigerator?,There are 2 handles on the refrigerator.
+image205,Is there a basket on the countertop?,"Yes, there is a basket on the countertop."
+image927,Where is the pillow?,The pillow is on the bed.
+image927,How many doors are in the image?,There is one door in the image.
+image927,Is there a quilt on the bed?,"Yes, there is a quilt on the bed."
+image545,Where are the notebooks located?,The notebooks are on the table.
+image545,How many chairs are visible in the image?,There are 3 chairs visible in the image.
+image545,Is there a laptop near the window?,"Yes, there is a laptop near the window."
+image1439,How many pictures are hanging on the wall?,There are 2 pictures hanging on the wall.
+image1439,Where is the floral arrangement?,The floral arrangement is on the dining table.
+image1439,How many chairs can you see in the image?,I can see at least 5 chairs in the image.
+image162,Where are the clothes hanging?,The clothes are hanging inside the closet.
+image162,How many sliding doors does the closet have?,The closet has two sliding doors.
+image162,Is there a shelf above the clothes?,"Yes, there is a shelf above the clothes."
+image401,How many boxes are stacked in front of the window?,There are two boxes stacked in front of the window.
+image401,Where is the blue crate located?,The blue crate is located on the floor next to the small wooden table.
+image401,Is there a dollhouse on the bookshelf?,"No, the dollhouse is not located on the bookshelf; it is near the bottom of the bookshelf, on the floor near the boxes."
+image691,Where is the pink towel?,The pink towel is draped over something in the top left corner of the image.
+image691,How many perfume bottles are on the bathroom counter?,There are about 5 perfume bottles on the bathroom counter.
+image691,Is there a tube of toothpaste on the counter?,"Yes, there is a tube of toothpaste on the counter next to a green bottle."
+image1360,Where is the lamp?,The lamp is on top of the dark brown cabinet.
+image1360,How many candlesticks are there?,There are two candlesticks.
+image1360,Is there a bottle on the cabinet?,"Yes, there is a blue bottle on the cabinet."
+image167,Where is the picture?,The picture is on the wall.
+image167,How many chairs are visible?,Two chairs are visible.
+image167,Is there a coat draped over one of the chairs?,"Yes, there is a coat draped over one of the chairs."
+image912,Where is the television?,The television is on a stand near a doorway.
+image912,How many shelves are there on the television stand?,There are 3 shelves on the television stand.
+image912,Is there a door to the left of the television?,"Yes, there is a white door to the left of the television."
+image672,How many bottles are on the counter?,There are at least 3 bottles on the counter.
+image672,Where is the bath towel?,"The bath towel is hanging on the wall, to the left of the window."
+image672,Is there a sink on the counter?,"Yes, there is a sink on the counter."
+image87,Where is the ladder?,The ladder is leaning against the bookshelves on the left side of the aisle.
+image87,How many rows of bookshelves are there?,"There are at least two rows of bookshelves visible, one on the left and one on the right."
+image87,Are there books on the shelves?,"Yes, there are books visible on both sides of the shelves."
+image991,Where is the red lamp located?,"The red lamp is on a nightstand, next to the bed."
+image991,How many bulletin boards are there?,There are two bulletin boards on the wall.
+image991,Is there a chair in front of the desk?,"Yes, there is a chair in front of the desk."
+image263,How many stools are there in the kitchen?,There are two stools in the kitchen.
+image263,Where is the refrigerator located?,The refrigerator is located near the kitchen cabinets.
+image263,Is there a picture hanging on the wall?,"Yes, there is a picture hanging on the wall."
+image1177,How many teddy bears are on the window seat?,There are two teddy bears on the window seat.
+image1177,Where is the chair located?,The chair is in front of the desk.
+image1177,Is there a mirror in the room?,"Yes, there is a tall mirror near the bed."
+image460,How many plants are on the shelving unit on the left side of the image?,There are two plants on the shelving unit.
+image460,Where are the green bins?,The green bins are on the bottom shelf of the tall shelving unit.
+image460,Is there a blackboard near the right side of the image?,"Yes, there is a blackboard on the right side of the image."
+image1387,Where is the glass cabinet located?,The glass cabinet is located near the piano and the dining table.
+image1387,How many chairs are around the dining table?,There are 4 chairs around the dining table.
+image1387,Is there a piano in the room?,"Yes, there is a piano in the room."
+image641,Where is the ping pong paddle?,The ping pong paddle is on the ping pong table.
+image641,How many chairs are visible in the image?,Two chairs are visible in the image.
+image641,Is there a bookshelf near the whiteboard?,"Yes, there is a bookshelf near the whiteboard."
+image601,Where is the sofa?,The sofa is located next to the wall with a window and curtains.
+image601,How many remotes are on the coffee table?,There appear to be two remotes on the coffee table.
+image601,Is there a backpack near the stairs?,"Yes, there is a backpack near the stairs and a shoe rack."
+image541,Where is the trash can?,The trash can is to the right of the nightstand.
+image541,How many lamps are in the image?,There are two lamps in the image.
+image541,Is there a blanket on the bed?,"Yes, there is a blanket on the bed."
+image977,Where are the cans located?,The cans are located on the shelf.
+image977,How many pillows are on the bed?,There are 4 pillows on the bed.
+image977,Is there a drawer on the cabinet?,"Yes, there is a drawer on the cabinet."
+image461,How many plants are on the shelf?,There are 2 plants on the shelf.
+image461,Where is the plant located?,"The plant is located on the side table, next to the window."
+image461,Are there any books on the side table?,"Yes, there are books on the side table."
+image1151,Where is the wooden chair?,"The wooden chair is in the back corner of the room, between the window and the bed."
+image1151,How many pillows are there on the bed?,There are two pillows on the bed.
+image1151,Is there a rainbow rug in the room?,"Yes, there is a rainbow rug on the floor near the window."
+image1403,How many drawers does the cabinet have?,The cabinet has four drawers.
+image1403,Where is the cabinet?,The cabinet is next to the wall and on the wooden floor.
+image1403,Are there handles on the cabinet's drawers?,"Yes, there are handles on the cabinet's drawers."
+image495,Where is the Apple box?,The Apple box is on the bottom shelf to the left of the red bucket.
+image495,How many cardboard boxes are there?,There are at least three cardboard boxes visible in the image.
+image495,Is there a window in the image?,"Yes, there is a window in the background of the image, above the shelves."
+image502,Where is the box of items?,The box of items is on the floor of the shelving unit.
+image502,How many towels are hanging?,There is one towel hanging.
+image502,Is there a stack of towels on the shelf?,"Yes, there is a stack of towels on the top shelf."
+image1361,How many chairs are around the table?,There are 5 chairs around the table.
+image1361,Where is the painting?,The painting is on the wall above the white cabinets.
+image1361,Is there a cabinet on the left of the room?,"Yes, there is a cabinet on the left of the room."
+image587,Where is the bag?,The bag is hanging on the back of a chair.
+image587,How many chairs are near the table?,There are two chairs near the table.
+image587,Is there a coffee maker on the table?,"Yes, there is a coffee maker on the table."
+image1363,Where is the bag?,The bag is hanging on the back of a chair.
+image1363,How many chairs are near the table?,There are two chairs near the table.
+image1363,Is there a coffee maker on the table?,"Yes, there is a coffee maker on the table."
+image903,Where is the faucet?,The faucet is on the circular counter near the sink.
+image903,How many potted plants are visible on the window sill?,There appear to be three potted plants on the window sill.
+image903,Is there a range hood above the stove?,"Yes, there is a black range hood above the stove."
+image1300,Where is the dog crate?,"The dog crate is near the window, to the left of the image."
+image1300,How many planters are on top of the dog crate?,There are two planters on top of the dog crate.
+image1300,Is there an armchair in the image?,"Yes, there is an armchair in the middle of the image."
+image132,Where is the dishtowel located?,The dishtowel is hanging on the wall next to the spice rack and above the sink.
+image132,How many spice racks are there?,There are three spice racks on the wall.
+image132,Is there a roll of paper towels on the counter?,"Yes, there is a roll of paper towels on the counter next to the sink."
+image1116,How many pillows are on the bed?,There are 4 pillows on the bed.
+image1116,Where is the nightstand?,The nightstand is beside the bed on the right.
+image1116,Is there a window in the room?,"Yes, there is a window to the left in the room."
+image838,"Where is the ""Whole Foods"" bag?","The ""Whole Foods"" bag is on the kitchen countertop next to the drawers."
+image838,How many kitchen cabinets are visible?,"There are multiple cabinets visible, including the set of drawers, the cabinet with a slightly open door, and several others along the countertop."
+image838,Is there a towel on the sink?,"Yes, there is a white and blue towel on the edge of the sink."
+image976,How many pillows are on the bed?,There are four pillows on the bed.
+image976,Where is the painting?,"The painting is on the floor, against the yellow wall, to the right side of the bed."
+image976,Is there a blanket on the bed?,"Yes, there is a red blanket on the bed."
+image593,Where is the lamp located?,The lamp is located on a table next to a couch.
+image593,How many curtains are there?,There are 2 curtains.
+image593,Is there a blanket on the sofa?,"Yes, there is a blanket on the sofa."
+image289,How many stacked chairs are there in the image?,There is one stack of chairs in the image.
+image289,Where is the whiteboard located?,"The whiteboard is located on the wall, near the center of the image."
+image289,How many desks are visible in the image?,There are at least 9 desks visible in the image.
+image97,Where are the purple mugs located?,The purple mugs are on the bottom two shelves.
+image97,How many shelves of mugs are there?,There are five shelves of mugs.
+image97,Is there a shelf with black mugs on it?,"Yes, there is a shelf with black mugs."
+image136,Where is the spice rack?,The spice rack is on the wall to the left of the boxes.
+image136,How many boxes of stretch-tite wrap are there?,There are 3 boxes of stretch-tite wrap stacked on the shelf.
+image136,Is there a baking pan on the stove?,"Yes, there are two baking pans on the stove."
+image534,Where is the white pillow?,"The white pillow is on the bed, near the headboard."
+image534,How many blankets are on the bed?,"There appear to be at least two blankets on the bed, one dark blue and one white."
+image534,Is there a red blind in the image?,"Yes, there is a red blind behind the bed."
+image1254,How many framed pictures are on the wall near the piano?,There are 3 framed pictures on the wall near the piano.
+image1254,Where is the dark armchair?,The dark armchair is to the left of the glass table.
+image1254,Is there a piano in the living room?,"Yes, there is a piano in the living room."
+image351,Where is the tall grandfather clock?,"It is standing to the right of the doorway, next to the white wall."
+image351,How many framed pictures are visible in the image?,There are two framed pictures visible in the image.
+image351,Is there a rug on the floor?,"Yes, there is a rug on the floor."
+image1034,Where is the chair located?,The chair is located under the desk.
+image1034,How many drawers are on the desk?,There are three drawers on the desk.
+image1034,Is there a trash can beside the desk?,"Yes, there is a blue trash can beside the desk."
+image80,Where is the hockey stick?,"The hockey stick is leaning against the wall, next to the bookshelf."
+image80,How many books are on the bookshelf?,There are at least 4 books on the bookshelf.
+image80,Is there a hat on the bookshelf?,"Yes, there is a black and white hat on the bookshelf."
+image955,Where is the computer tower?,The computer tower is on the desk.
+image955,How many pens are in the blue cup?,There are several pens in the blue cup.
+image955,Is there a certificate on the shelf?,"Yes, there is a certificate on the shelf."
+image514,Where is the lamp located?,The lamp is located on the nightstand next to the bed.
+image514,How many books are stacked beneath the nightstand?,There is a stack of books beneath the nightstand.
+image514,Is there a basket near the corner of the room?,"Yes, there is a woven basket on the floor near the corner of the room."
+image659,Where is the towel rack located?,The towel rack is on the wall to the right of the toilet.
+image659,How many shelves are above the toilet?,There are three shelves above the toilet.
+image659,Is there a mirror above the sink?,"Yes, there is a mirror above the sink."
+image562,Where is the microwave?,The microwave is above the stove.
+image562,How many drawers can be seen on the cabinet?,Three drawers can be seen on the cabinet.
+image562,Is there a spice rack in the image?,"Yes, there is a spice rack on the wall."
+image1412,How many chairs are visible around the table?,There are four chairs visible around the table.
+image1412,Where is the lamp located?,The lamp is located on the brown sideboard.
+image1412,Is there a red object on the table?,"Yes, there is a red object on the table."
+image385,Where is the red folder located?,The red folder is located on the desk.
+image385,How many chairs are in the image?,There is one chair in the image.
+image385,Is there a desk in the image?,"Yes, there is a desk in the image."
+image660,Where is the bar of soap?,The bar of soap is on the sink next to a small cup and the faucet.
+image660,How many toothbrushes are visible?,There is one visible toothbrush in the image.
+image660,Is there a shower head on the wall?,"Yes, a shower head is mounted to the shower wall."
+image1433,How many chairs are around the table?,There are 8 chairs around the table.
+image1433,Where are the pictures located?,The pictures are located on the wall to the right of the table.
+image1433,Is there a blanket behind the dining table?,"Yes, there is a blanket behind the dining table."
